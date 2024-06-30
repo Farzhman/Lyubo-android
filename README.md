@@ -1,0 +1,3 @@
+-🧡 "lyubo" translated from Russian means beautiful, pleasant.
+-😻 lyubo is a beautiful and understandable programming language. The main purpose of creation is entertainment.
+-💞 In this repository you will find a compiler for lyubo for Windows
